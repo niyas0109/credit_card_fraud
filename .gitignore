@@ -1,0 +1,15 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Machine Learning Models & Data (Recreated locally)
+*.joblib
+*.pkl
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Streamlit config/cache
+.streamlit/
